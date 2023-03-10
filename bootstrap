@@ -1,0 +1,29 @@
+
+<html>
+    <head>
+        <title>Bootstrap 3</title>
+		<style type="text/css">
+			#S1{width:80%;height:80%;background-color:rgb(152, 207, 227));}
+			
+			@media(min-width:768px)
+			{
+				#S1{width:60%;height:60%;background-color:rgb(59, 115, 129);}
+			}
+			@media(min-width:992px)
+			{
+				#S1{width:40%;height:40%;background-color:rgb(8, 83, 112);}
+			}
+			@media(min-width:1200px)
+			{
+				#S1{width:20%;height:20%;background-color:rgb(4, 109, 214);}
+			}
+		</style>
+    </head>
+    <body>
+        <center>
+		<div id="S1">
+	        BOOTSTRAP
+		</div>
+        </center>
+    </body>
+</html>
